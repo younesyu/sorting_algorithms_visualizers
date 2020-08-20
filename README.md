@@ -4,7 +4,7 @@
   <a href="https://github.com/younesyu/sorting_algorithms_visualizers">
     <img src="example.gif" alt="Logo">
   </a>
-1
+
   <h3 align="center">Sorting Algorithms Visualizers</h3>
 
   <p align="center">
@@ -17,12 +17,12 @@
 ## About The Project
 
 
-Just some random project idea that came through my mind during quarantine. It's written in Java using the Processing framework
+Just some random project idea that came through my mind during quarantine. It's written in Java using the Processing framework.
 
 ### Built With
 
 * [Java]
-  * [Processing]
+* [Processing]
 
 
 <!-- GETTING STARTED -->
